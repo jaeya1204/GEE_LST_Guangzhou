@@ -11,5 +11,6 @@
 * MODIS
 * B10toa （推荐）
 
-***代码时间：20250613***
-***Email：leyaralai@gmail.com***
+```text
+Last updated: 2025-06-13 
+Email：leyaralai@gmail.com
