@@ -1,0 +1,2 @@
+# GEE_LST_Guangzhou
+解决广州市LST计算波段缺失问题的GEE代码
